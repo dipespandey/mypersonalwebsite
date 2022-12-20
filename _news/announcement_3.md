@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-12-12 00:00:00-0400
+title: Launched Haifix with 5 customers
 inline: true
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Launched Haifix with 5 customers

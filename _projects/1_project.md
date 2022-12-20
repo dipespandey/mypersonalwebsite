@@ -1,17 +1,16 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Haifix
+description: A SAAS platform for non-traders to get into forex trading with small investments
+img: assets/img/haifix.png
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+[Haifix](https://haifix.com) is a SAAS platform that allows non-traders to earn some passive income by investing in the platform. I collaborated with some experienced forex traders where they build the mechanism to generate daily profitable signals, and I created a platform to 
+monitize the system on a commission-based model. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Current status: 10 onboarded investors with a total investment of €40k and an average return of 10% per month.
 
     ---
     layout: page

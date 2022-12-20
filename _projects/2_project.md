@@ -1,18 +1,16 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Crunchevent
+description: An interactive event management platform for event organizers
 img: assets/img/3.jpg
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+[Crunchevent](https://crunchevent.no) is a Real-Time Interactive Event Platform to make the experience interactive for the audience using components like live polls,
+question answering, audience segmentation all through a mobile app.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
+Current status: Beta version of MVP has been released, and currently looking for the first customer.
     ---
     layout: page
     title: project

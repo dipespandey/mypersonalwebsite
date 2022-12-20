@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: In my free time, I like to fiddle around with a few projects of my own. Some of these projects already have some customers, while most of them are deployedMost of them are deployed and ready for users to try out, with some hicuups. So, please feel free to comment below if you face any issues running them.
 nav: true
 nav_order: 2
 display_categories: [work, fun]

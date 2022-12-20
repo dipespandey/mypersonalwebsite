@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dipespandey
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - dipespandey/mypersonalwebsite
+  - dipespandey/ETLPipeline
+  - damsparse/ijorms
+  - dipespandey/movierecommendations

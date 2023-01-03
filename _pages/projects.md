@@ -2,7 +2,8 @@
 layout: page
 title: projects
 permalink: /projects/
-description: In my free time, I like to fiddle around with a few projects of my own. Some of these projects already have some customers, while most of them are deployed and ready for users to try out, with some hicuups. So, please feel free to comment below if you face any issues running them.
+description: In my free time, I like to fiddle around with a few projects of my own. Over the years, I have managed to make a few friends who are interested in problem solving just like me. As a result, we have created a few projects, some of which already have some customers, while most of them are deployed and ready for users to try out. So, please feel free to comment below if you face any issues running them.
+
 nav: true
 nav_order: 2
 display_categories: [work, fun]

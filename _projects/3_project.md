@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: proofpit
 description: yet another crypto portfolio management platform, currently in-progress
@@ -75,4 +75,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->

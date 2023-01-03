@@ -2,7 +2,7 @@
 layout: page
 title: Crunchevent
 description: An interactive event management platform for event organizers
-img: assets/img/3.jpg
+img: assets/img/crunchevent.png
 importance: 2
 category: work
 ---

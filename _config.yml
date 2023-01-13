@@ -13,7 +13,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: python, javascript, fastapi, django, nodejs, aws, indiehackers, forex, automated trading, blockchain
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: http://127.0.0.1:4000 # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -110,7 +110,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Writings # blog_name will be displayed in your blog page
+# blog_name:  # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 # blog_description: a collection of my writings
 permalink: /blog/:year/:title/

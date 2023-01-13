@@ -11,7 +11,7 @@ giscus_comments: true
 [Haifix](https://stats.haifix.com) is a SAAS platform that allows non-traders to earn some passive income by investing in the platform. I collaborated with some experienced forex traders where they build the mechanism to generate daily profitable signals, and I created a platform to 
 monitize the system on a commission-based model. 
 
-Current status: 8 onboarded investors with a total investment of €60k.
+Current status: 8 onboarded investors with a total investment of €80k.
 
 
 <div class="row">
